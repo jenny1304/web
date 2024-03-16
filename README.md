@@ -10,5 +10,8 @@
 ## 1. CSS Selector
 [:arrow_up:](#content-tables)
 
-shsghdgshdgsh
+Select:
+- `class`: Use `.`
+- `id`: Use `#`
+
 
