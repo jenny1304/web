@@ -36,11 +36,20 @@ Select:
 :root{
     --font-color: red;
 }
+```
 
+```css
 color: var(--font-color);
 ```
 
 - `hover`
+
+```css
+.class:hover{
+    background-color: rgba(240,81,35,0.1);
+}
+```
+  
 - `active`
 - `first-child`
 - `ast-child`
