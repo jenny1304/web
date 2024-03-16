@@ -29,7 +29,17 @@ Select:
 
 ## 3. Pseudo classes
   [:arrow_up:](#content-tables)
+  
 - `Root`
+
+```css
+:root{
+    --font-color: red;
+}
+
+color: var(--font-color);
+```
+
 - `hover`
 - `active`
 - `first-child`
