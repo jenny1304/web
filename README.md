@@ -5,6 +5,7 @@
 
  - [1. CSS Selector](#1-css-selector)
  - [2. Độ ưu tiên trong CSS](#2-độ-ưu-tiên-trong-css)
+ - [3. Pseudo classes](#3-pseudo-classes)
 </details>
 
 ## I. Basic CSS
@@ -25,5 +26,13 @@ Select:
   5. `tag` (div, h1) = 1
   6. `*` (for all) = 0
 
+
+## 3. Pseudo classes
+  [:arrow_up:](#content-tables)
+- `Root`
+- `hover`
+- `active`
+- `first-child`
+- `ast-child`
 
 
