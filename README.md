@@ -6,6 +6,7 @@
  - [1. CSS Selector](#1-css-selector)
  - [2. Độ ưu tiên trong CSS](#2-độ-ưu-tiên-trong-css)
  - [3. Pseudo classes](#3-pseudo-classes)
+ - [4. Pseudo elements](#4-pseudo-elements)
 </details>
 
 ## I. Basic CSS
@@ -53,5 +54,20 @@ color: var(--font-color);
 - `active`
 - `first-child`
 - `ast-child`
+
+## 4. Pseudo elements
+  [:arrow_up:](#content-tables)
+- `before`
+- `after`
+
+```css
+.container::after{
+    content: "Hello"; /*có thể có content hoặc không*/
+    display:block;
+  }
+```
+  
+- `first-line`
+- `first-word`
 
 
