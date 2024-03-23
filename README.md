@@ -18,6 +18,7 @@
 Select:
 - `class`: Use `.`
 - `id`: Use `#`
+- `tags`: Use `name`
 
 
 ## 2. Độ ưu tiên trong CSS
